@@ -1,0 +1,22 @@
+{
+  "name": "ejercicio",
+  "version": "1.0.0",
+  "description": "Ejercicio entrevista",
+  "main": "solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecasanova/ejercicio.git"
+  },
+  "author": "Enrique Casanova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ecasanova/ejercicio/issues"
+  },
+  "homepage": "https://github.com/ecasanova/ejercicio#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  }
+}
