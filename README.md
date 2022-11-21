@@ -15,18 +15,15 @@ John,Doe,05-20-1985,Engineer,javascript
 Y se desean guardan en un objeto tipo JSON en con la siguiente estructura:
 
 ```
-[
 ...
 {
-  'name':'Jhon',
-  'lastname':'Doe',
-  'Frodo':'Baggins',
-  'age':35,
-  'position':'Architect',
-  'fav_tech':'javascript, python'
-},
+    name: 'John',
+    lastname: 'Doe',
+    position: 'Engineer',
+    fav_tech: 'javascript, python, javascript',
+    age: 38
+  },
 ...
-]
 ```
 
 Las tecnologías favoritas deben estar agrupadas separadas por coma, en una sola columna.
